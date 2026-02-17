@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/commands_model.c:281:9:commands_model_configure_activations	16	static
+../X-CUBE-AI/App/commands_model.c:310:9:commands_model_configure_weights	16	static
+../X-CUBE-AI/App/commands_model.c:343:9:ai_commands_model_get_info	160	static
+../X-CUBE-AI/App/commands_model.c:390:9:ai_commands_model_get_report	160	static
+../X-CUBE-AI/App/commands_model.c:437:10:ai_commands_model_get_error	16	static
+../X-CUBE-AI/App/commands_model.c:444:10:ai_commands_model_create	24	static
+../X-CUBE-AI/App/commands_model.c:455:10:ai_commands_model_create_and_init	88	static
+../X-CUBE-AI/App/commands_model.c:490:12:ai_commands_model_inputs_get	16	static
+../X-CUBE-AI/App/commands_model.c:501:12:ai_commands_model_outputs_get	16	static
+../X-CUBE-AI/App/commands_model.c:512:11:ai_commands_model_destroy	16	static
+../X-CUBE-AI/App/commands_model.c:519:9:ai_commands_model_init	24	static
+../X-CUBE-AI/App/commands_model.c:536:8:ai_commands_model_run	24	static
+../X-CUBE-AI/App/commands_model.c:544:8:ai_commands_model_forward	16	static
