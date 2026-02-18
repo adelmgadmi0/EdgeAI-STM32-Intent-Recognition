@@ -37,10 +37,8 @@ Instead of relying on traditional string matching (e.g., `strcmp`), this project
 * **Communication Protocol:** UART configured at **115200 baud**
 * **Peripherals:** Onboard User LED (Pin PA5)
 
+
 ## 🧪 Example Usage
 
 Send a command via your preferred serial terminal:
-
-**UART Input:**
-```text
-cha3el led
+<img width="691" height="747" alt="screenshot intent recognition model" src="https://github.com/user-attachments/assets/30760777-b2a5-4165-b602-5fe6f85f83f0" />
